@@ -15,7 +15,7 @@
 -->
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/TdwUupHjofXWF6LJJc/giphy.gif" width="440px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/TdwUupHjofXWF6LJJc/giphy.gif" width="400px" height="300" />
 
 - 🎓 Pre-Final UG CSE @ IIT Mandi
 - 🔭 I’m currently working as E-Cell Co-ordinator at IIT Mandi 
