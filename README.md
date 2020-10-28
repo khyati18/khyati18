@@ -21,10 +21,10 @@
 - 🔭 I’m currently working as E-Cell Co-ordinator at IIT Mandi 
 - 🌱 I’m currently learning game development, designing and OS/Networking
 - 👯 I’m looking to collaborate on projects related to Climate Change
-- 💬 Discuss with me about anything related to future tech
+- 💬 Discuss with me about anything related to future Tech/Market
 - :computer: Incoming Summer 2021 SDE Intern @Microsoft
 - ⚡ If you are using a computer and haven't watched "The Imitation Game", then go and watch now !
-- 📫 How to reach me: [Mail me !](mailto:agarwal.khyati5@gmail.com)
+- 📫 How to reach me: [Mail](mailto:agarwal.khyati5@gmail.com), [DM on Linkedin](https://www.linkedin.com/in/khyati-agarwal-29913116b/)
 
 <br />
 <br />
