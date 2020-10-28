@@ -9,6 +9,10 @@
 <a href="https://www.instagram.com/khyati__agarwal__/">
   <img align="left" alt="Khyati's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/khyati.agarwal1/">
+  <img align="left" alt="Khyati's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/TdwUupHjofXWF6LJJc/giphy.gif" width="370px" height="250" />
