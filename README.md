@@ -10,10 +10,6 @@
   <img align="left" alt="Khyati's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<!---
-	[![HitCount](http://hits.dwyl.com/khyati18/khyati18.svg)](http://hits.dwyl.com/khyati18/khyati18)
--->
-
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/TdwUupHjofXWF6LJJc/giphy.gif" width="370px" height="250" />
 
@@ -28,3 +24,6 @@
 
 <br />
 <br />
+
+
+[![HitCount](http://hits.dwyl.com/khyati18/khyati18.svg)](http://hits.dwyl.com/khyati18/khyati18)
