@@ -26,4 +26,4 @@
 <br />
 
 
-[![HitCount](http://hits.dwyl.com/khyati18/khyati18.svg)](http://hits.dwyl.com/khyati18/khyati18)
+<!-- [![HitCount](http://hits.dwyl.com/khyati18/khyati18.svg)](http://hits.dwyl.com/khyati18/khyati18) -->
