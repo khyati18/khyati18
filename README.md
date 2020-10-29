@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/khyati-agarwal-29913116b/">
   <img align="left" alt="Khyati's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://gitlab.com/khyati18">
+  <img align="left" alt="Khyati's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 <a href="https://www.instagram.com/khyati__agarwal__/">
   <img align="left" alt="Khyati's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -30,4 +33,4 @@
 <br />
 
 
-<!-- [![HitCount](http://hits.dwyl.com/khyati18/khyati18.svg)](http://hits.dwyl.com/khyati18/khyati18) -->
+ [![HitCount](http://hits.dwyl.com/khyati18/khyati18.svg)](http://hits.dwyl.com/khyati18/khyati18) 
