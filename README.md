@@ -23,7 +23,6 @@
 - 🎓 Pre-Final UG CSE @ IIT Mandi
 - 🔭 I’m currently working as E-Cell Co-ordinator at IIT Mandi 
 - 🌱 I’m currently learning game development, designing and OS/Networking
-- 👯 I’m looking to collaborate on projects related to Climate Change
 - 💬 Discuss with me about anything related to future Tech/Market
 - :computer: Incoming Summer 2021 SDE Intern @Microsoft
 - ⚡ If you are using a computer and haven't watched "The Imitation Game", then go and watch now !
