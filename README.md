@@ -22,11 +22,12 @@
 
 - 🎓 Pre-Final UG CSE @ IIT Mandi
 - 🔭 I’m currently working as E-Cell Co-ordinator at IIT Mandi 
-- 🌱 I’m currently learning game development, designing and OS/Networking
-- 💬 Discuss with me about anything related to future Tech/Market
+- 💬 Discuss with me about anything related to latest Tech
 - :computer: Incoming Summer 2021 SDE Intern @Microsoft
 - ⚡ If you are using a computer and haven't watched "The Imitation Game", then go and watch now !
 - 📫 How to reach me: [Mail](mailto:agarwal.khyati5@gmail.com), [DM on Linkedin](https://www.linkedin.com/in/khyati-agarwal-29913116b/)
+
+Check out [Casa Mobilia - Finest Bespoke Furniture & Interiors](https://www.casamobilia.in/) website developed by me.
 
 <br />
 <br />
