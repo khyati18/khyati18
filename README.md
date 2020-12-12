@@ -28,6 +28,5 @@
 
 Check out [Casa Mobilia - Finest Bespoke Furniture & Interiors](https://www.casamobilia.in/) website developed by me.
 
-![](https://komarev.com/ghpvc/?username=khyati18)
 <br />
 <br />
