@@ -19,9 +19,9 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/TdwUupHjofXWF6LJJc/giphy.gif" width="370px" height="250" />
 
-- 💻 Software Developer Engineer at Zomato ;)
+- 💻 Software Engineer at Zomato ;)
 - 🎓 Graduated in Computer Science B.tech @ IIT Mandi
-- 💬 Discuss with me about anything related to latest Tech, Robotics or Business
+- 💬 Discuss with me about anything related to latest Tech
 - 📫 How to reach me: [Mail](mailto:agarwal.khyati5@gmail.com), [DM on Linkedin](https://www.linkedin.com/in/khyati-agarwal-29913116b/)
 
 Check out [Casa Mobilia - Finest Bespoke Furniture & Interiors](https://www.casamobilia.in/) website developed by me.
